@@ -23,7 +23,7 @@ Clone this repository to your local machine:
 
 bash
 
-git clone https://github.com/your-username/XCubed-Data-Images.git
+git clone https://github.com/EmperorVaibz/cubesat.git
 Navigate to the repository directory:
 
 bash
