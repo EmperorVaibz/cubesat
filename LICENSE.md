@@ -1,4 +1,4 @@
-MIT License
+# MIT License
 
 Copyright (c) [2024] [Vaibhav Rau, Victor Huang, Austin Guan, Maahi Vidyarthi, Rohan Tigadi]
 
