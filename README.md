@@ -24,16 +24,19 @@ Clone this repository to your local machine:
 bash
 
 git clone https://github.com/EmperorVaibz/cubesat.git
+
 Navigate to the repository directory:
 
 bash
 
 cd XCubed-Data-Images
+
 Create a virtual environment (optional but recommended):
 
 bash
 
 python -m venv venv
+
 Activate the virtual environment:
 
 On Windows:
@@ -41,6 +44,7 @@ On Windows:
 bash
 
 .\venv\Scripts\activate
+
 On Unix or MacOS:
 
 bash
@@ -51,6 +55,7 @@ Install the required dependencies:
 bash
 
 pip install -r requirements.txt
+
 Usage
 Uploading Data
 To upload new data from XCubed, follow these steps:
@@ -62,6 +67,7 @@ Run the data upload script:
 bash
 Copy code
 python upload_data.py
+
 Follow the prompts to input the relevant information.
 
 Accessing Images
