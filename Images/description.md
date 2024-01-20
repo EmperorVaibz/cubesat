@@ -4,7 +4,7 @@ Welcome to the XCubed satellite images repository! This folder contains satellit
 
 ## Structure
 
-- **YYYY-MM-DD/HH-MM-SS/**
+- **YYYY-MM-DD HH-MM-SS.milis**
   - Contains images captured on the specified date.
 
 ## Usage
