@@ -1,4 +1,4 @@
-XCubed Data and Images Repository
+**XCubed Data and Images Repository**
 
 Overview
 
